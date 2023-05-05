@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/geely/robot_dog_control_osqp/devel/setup.sh

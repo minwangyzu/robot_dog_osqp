@@ -1,0 +1,2 @@
+follow
+-DCATKIN_DEVEL_PREFIX=/home/geely/robot_dog_control_osqp/devel -DCMAKE_INSTALL_PREFIX=/home/geely/robot_dog_control_osqp/install -G Unix Makefiles
